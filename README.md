@@ -1,5 +1,4 @@
 ![All done with rustlings](static/rustlings-success-1.png)
-![All done with rustlings - Verify](static/rustlings-success-3.png)
 
 # rustlings-solutions 🦀❤️
 
