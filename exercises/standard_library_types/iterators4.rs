@@ -1,8 +1,12 @@
 // iterators4.rs
 
-// I AM NOT DONE
-
 pub fn factorial(num: u64) -> u64 {
+    let mut result = 1;
+    if num > 0 {
+        (1..num + 1).for_each(|n| result *= n);
+        //result = (1..num + 1).product();
+    }
+    result
     // Complete this function to return the factorial of num
     // Do not use:
     // - return

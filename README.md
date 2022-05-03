@@ -2,6 +2,14 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-118-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+[All done with rustlings](static/rustlings-success-1.png)
+[All done with rustlings - Verify](static/rustlings-success-3.png)
+[All done with rustlings - Progress List](static/rustlings-success-2.png)
+
+# rustlings-solutions 🦀❤️
+
+This is just a reference in case you are stuck but please do try to solve them yourself first.
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
