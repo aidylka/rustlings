@@ -1,6 +1,5 @@
-[All done with rustlings](static/rustlings-success-1.png)
-[All done with rustlings - Verify](static/rustlings-success-3.png)
-[All done with rustlings - Progress List](static/rustlings-success-2.png)
+![All done with rustlings](static/rustlings-success-1.png)
+![All done with rustlings - Verify](static/rustlings-success-3.png)
 
 # rustlings-solutions 🦀❤️
 
